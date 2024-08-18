@@ -4,6 +4,7 @@
 # Ignore other unnecessary files
 *.pyc
 __pycache__/
-generated_files
+generated_files/excel/*
+generated_files/pdf/*
 **/*.env
 **/*env.py

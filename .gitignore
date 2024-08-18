@@ -1,0 +1,9 @@
+# Ignore virtual environment
+../python_project_venv/
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
+generated_files
+**/*.env
+**/*env.py

@@ -1,0 +1,6 @@
+playwright
+pandas
+python-dotenv
+openpyxl
+pywin32
+PyPDF2

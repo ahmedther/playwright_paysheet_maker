@@ -7,4 +7,3 @@ __pycache__/
 generated_files/excel/*
 generated_files/pdf/*
 **/*.env
-**/*env.py
